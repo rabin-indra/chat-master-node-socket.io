@@ -1,0 +1,10 @@
+Create Index, CSS and JS files
+
+Install dependencies. express, nodemon(dev. dependencies).
+
+create express server (server.js)
+
+do frontend part
+
+install socket.io, setup socket.io on server.js and client.js
+
